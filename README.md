@@ -1,1 +1,1 @@
-# goit-hw-06-Toolkit
+# goit-react-hw-06-phonebook-v2
