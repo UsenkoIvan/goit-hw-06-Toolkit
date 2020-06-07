@@ -1,1 +1,1 @@
-# goit-hw-06-reduxToolkit
+# goit-hw-06-Toolkit
